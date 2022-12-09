@@ -1,8 +1,11 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Alex Borel",
+	"keywords": ["your","mom","freecodecamp"],
+	"description": "back end better be sick or else",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"@freecodecamp/example": "~1.2.13"
 	},
 	"main": "server.js",
 	"scripts": {
